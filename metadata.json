@@ -1,0 +1,6 @@
+{
+  "name": "AI Blog Generator Platform",
+  "description": "A production-ready Full Stack LLM application for generating SEO-friendly blogs using Gemini API, FastAPI, and Streamlit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
